@@ -1,0 +1,196 @@
+[19-Dec-2023 00:40:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Dec-2023 13:34:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Dec-2023 21:26:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Dec-2023 13:48:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Dec-2023 13:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2023 21:48:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 10:00:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Dec-2023 11:30:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Dec-2023 00:44:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Dec-2023 18:36:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Dec-2023 20:13:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Dec-2023 09:45:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Jan-2024 13:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jan-2024 18:25:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Jan-2024 00:46:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Jan-2024 20:03:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Jan-2024 08:13:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Jan-2024 11:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Jan-2024 14:33:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Jan-2024 22:29:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Jan-2024 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Jan-2024 06:04:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Jan-2024 21:43:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Jan-2024 06:47:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Jan-2024 09:53:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Jan-2024 12:22:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2024 00:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2024 16:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2024 18:32:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2024 22:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Feb-2024 19:30:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Feb-2024 01:56:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Feb-2024 08:39:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Feb-2024 21:21:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Feb-2024 12:34:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Feb-2024 06:39:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Feb-2024 11:27:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Feb-2024 14:30:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Feb-2024 19:06:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Feb-2024 15:34:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Feb-2024 15:51:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Feb-2024 00:06:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Feb-2024 06:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Feb-2024 13:01:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Feb-2024 05:44:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Feb-2024 07:25:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Feb-2024 19:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Feb-2024 21:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Feb-2024 08:23:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/worlnfju/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

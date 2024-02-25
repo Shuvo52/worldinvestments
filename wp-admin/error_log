@@ -1,0 +1,197 @@
+[27-Dec-2023 11:51:09 UTC] WordPress database error Table 'worlnfju_ar2.bxnnc_bulletinwp_options' doesn't exist for query SELECT COUNT(1)
+      FROM bxnnc_bulletinwp_options
+      WHERE meta_key = 'plugin_version'; made by activate_plugin, plugin_sandbox_scrape, include_once('/plugins/bulletin-announcements/bulletinwp.php'), BULLETINWP::instance, BULLETINWP->__construct, BULLETINWP_SQL->__construct, BULLETINWP_SQL->maybe_bulletins_table_insert_columns_needed, BULLETINWP_SQL->get_option, BULLETINWP_SQL->maybe_get_option
+[27-Dec-2023 11:51:09 UTC] WordPress database error Table 'worlnfju_ar2.bxnnc_bulletinwp_options' doesn't exist for query SELECT COUNT(1)
+      FROM bxnnc_bulletinwp_options
+      WHERE meta_key = 'plugin_version'; made by activate_plugin, do_action('activate_bulletin-announcements/bulletinwp.php'), WP_Hook->do_action, WP_Hook->apply_filters, BULLETINWP_Activation->activate_plugin, BULLETINWP_Activation->create_plugin_tables, BULLETINWP_SQL->bulletins_table_insert_columns, BULLETINWP_SQL->update_option, BULLETINWP_SQL->maybe_get_option
+[27-Dec-2023 11:51:09 UTC] WordPress database error Table 'worlnfju_ar2.bxnnc_bulletinwp_options' doesn't exist for query SHOW FULL COLUMNS FROM `bxnnc_bulletinwp_options` made by activate_plugin, do_action('activate_bulletin-announcements/bulletinwp.php'), WP_Hook->do_action, WP_Hook->apply_filters, BULLETINWP_Activation->activate_plugin, BULLETINWP_Activation->create_plugin_tables, BULLETINWP_SQL->bulletins_table_insert_columns, BULLETINWP_SQL->update_option
+[13-Jan-2024 08:01:39 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:01:39 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:01:39 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:01:39 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:01:39 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[13-Jan-2024 08:07:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[29-Jan-2024 17:38:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/worlnfju/public_html/wp-content/plugins/essential-grid/admin/essential-grid-admin.class.php on line 203
+[01-Feb-2024 12:12:47 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND user_id = 1 AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_List_Table->views, WP_Comments_List_Table->get_views, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[01-Feb-2024 12:12:47 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND comment_type IN ('', 'comment') AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_Comments_List_Table->display, WP_List_Table->display_tablenav, WP_Comments_List_Table->extra_tablenav, WP_Comments_List_Table->comment_type_dropdown, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[01-Feb-2024 12:12:47 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND comment_type IN ('pingback', 'trackback') AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_Comments_List_Table->display, WP_List_Table->display_tablenav, WP_Comments_List_Table->extra_tablenav, WP_Comments_List_Table->comment_type_dropdown, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[01-Feb-2024 12:12:47 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND comment_type IN ('review') AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_Comments_List_Table->display, WP_List_Table->display_tablenav, WP_Comments_List_Table->extra_tablenav, WP_Comments_List_Table->comment_type_dropdown, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[02-Feb-2024 08:29:30 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND user_id = 1 AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_List_Table->views, WP_Comments_List_Table->get_views, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[02-Feb-2024 08:29:30 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND comment_type IN ('', 'comment') AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_Comments_List_Table->display, WP_List_Table->display_tablenav, WP_Comments_List_Table->extra_tablenav, WP_Comments_List_Table->comment_type_dropdown, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[02-Feb-2024 08:29:30 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND comment_type IN ('pingback', 'trackback') AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_Comments_List_Table->display, WP_List_Table->display_tablenav, WP_Comments_List_Table->extra_tablenav, WP_Comments_List_Table->comment_type_dropdown, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[02-Feb-2024 08:29:30 UTC] WordPress database error Unknown column 'bxnnc_posts.ID' in 'on clause' for query 
+			SELECT  COUNT(*)
+			FROM bxnnc_comments  LEFT JOIN bxnnc_posts AS wp_posts_to_exclude_reviews ON comment_post_ID = wp_posts_to_exclude_reviews.ID  INNER JOIN bxnnc_term_relationships AS pll_tr ON pll_tr.object_id = bxnnc_posts.ID
+			WHERE ( ( comment_approved = '0' OR comment_approved = '1' ) ) AND comment_type IN ('review') AND  comment_type != 'order_note'  AND  comment_type != 'webhook_delivery'  AND  wp_posts_to_exclude_reviews.post_type NOT IN ('product')  AND pll_tr.term_taxonomy_id IN ( 84 )
+			
+			
+			
+		 made by WP_Comments_List_Table->display, WP_List_Table->display_tablenav, WP_Comments_List_Table->extra_tablenav, WP_Comments_List_Table->comment_type_dropdown, get_comments, WP_Comment_Query->query, WP_Comment_Query->get_comments, WP_Comment_Query->get_comment_ids
+[05-Feb-2024 08:39:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:41:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:43:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:45:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:47:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:54:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:56:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:58:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:59:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 08:59:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:00:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:02:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:02:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:03:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:03:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:04:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:04:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:05:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:05:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:05:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:06:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:07:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:07:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:08:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:09:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:10:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:11:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:12:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:13:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:14:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:15:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:15:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:15:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:17:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:18:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:19:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:20:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:21:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:22:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:24:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:24:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:24:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:30:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:30:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:30:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:31:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:31:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:32:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:33:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:34:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:34:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:34:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:39:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:41:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:41:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:41:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:41:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:41:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:42:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:42:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:42:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:42:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:42:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:47:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:48:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:50:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:50:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:55:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:55:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 09:59:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 10:01:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in /home/worlnfju/public_html/wp-content/plugins/ays-popup-box/ays-pb.php on line 46
+[05-Feb-2024 10:03:54 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:03:54 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:03:58 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:03:58 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:04:02 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:04:02 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:04:14 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:04:14 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:18 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:18 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:20 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:20 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:31 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:31 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:39 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:05:39 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:07:18 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:07:18 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:07:23 UTC] PHP Notice:  Function wp_register_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
+[05-Feb-2024 10:07:23 UTC] PHP Notice:  Function wp_enqueue_style was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. This notice was triggered by the slickmap.css handle. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/worlnfju/public_html/wp-includes/functions.php on line 6031
